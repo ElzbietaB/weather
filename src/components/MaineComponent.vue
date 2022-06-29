@@ -2,7 +2,7 @@
 
 <template>
   <h1>Hello from Main Component</h1>
-</template>
+</template> 
 
 <style>
 h1 {

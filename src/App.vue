@@ -3,7 +3,7 @@ import MaineComponent from './components/MaineComponent.vue';
 </script>
 
 <template>
-  <MaineComponent />
+  <MaineComponent /> 
 </template>
 
 <style scoped></style>

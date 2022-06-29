@@ -1,12 +1,9 @@
 <script setup>
 // This starter template is using Vue 3 <script setup> SFCs
 // Check out https://vuejs.org/api/sfc-script-setup.html#script-setup
-import Maincomponent from './components/Maincomponent.vue';
+import Mainecomponent from './components/MaineComponent.vue';
 </script>
 
-<template>
-  <HelloWorld msg="Vite + Vue" />
-</template>
+<template></template>
 
-<style scoped>
-</style>
+<style scoped></style>

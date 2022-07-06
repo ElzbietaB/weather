@@ -1,9 +1,10 @@
 <script setup>
-import MaineComponent from './components/MaineComponent.vue';
+// zaimportuj komponenty z miejsca gdzie są zapisane w stosunku do App
+import MainComponent from './components/MainComponent.vue';
 </script>
 
 <template>
-  <MaineComponent /> 
+  <MainComponent />
 </template>
 
 <style scoped></style>
